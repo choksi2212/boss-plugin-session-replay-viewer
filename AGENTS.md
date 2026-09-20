@@ -99,3 +99,4 @@ it in `build.gradle.kts`.
   to publish a GitHub release and push the jar to the BOSS Plugin Store. The
   Release workflow needs `permissions: contents: write` - without it the
   shared workflow 403s trying to create a release.
+
