@@ -20,7 +20,7 @@ class ReplayDynamicPlugin : DynamicPlugin {
     override val version: String = "0.1.0"
     override val description: String =
         "Visual, step-by-step playback of rparecorder session files - timeline + per-step narrative."
-    override val author: String = "Risa Labs"
+    override val author: String = "choksi2212"
     override val url: String = "https://github.com/choksi2212/boss-plugin-session-replay-viewer"
 
     private val logger = BossLogger.forComponent("ReplayDynamicPlugin")
