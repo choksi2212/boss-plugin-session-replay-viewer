@@ -9,7 +9,7 @@
   "mainClass": "ai.rever.boss.plugin.dynamic.replay.ReplayDynamicPlugin",
   "type": "mixed",
   "description": "Visual, step-by-step playback of rparecorder session files - timeline + per-step narrative",
-  "author": "Risa Labs",
+  "author": "choksi2212",
   "url": "https://github.com/choksi2212/boss-plugin-session-replay-viewer",
   "panel": {
     "position": "left_bottom",
